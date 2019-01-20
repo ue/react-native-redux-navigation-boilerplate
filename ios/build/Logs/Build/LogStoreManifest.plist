@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>logFormatVersion</key>
+	<integer>9</integer>
+	<key>logs</key>
+	<dict>
+		<key>204315D8-6539-40C0-9B89-F6F8F7C4A1FF</key>
+		<dict>
+			<key>className</key>
+			<string>IDECommandLineBuildLog</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>204315D8-6539-40C0-9B89-F6F8F7C4A1FF.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>W</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>findShape project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>findShape</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Building project findShape with scheme findShape and configuration Debug</string>
+			<key>timeStartedRecording</key>
+			<real>569675981.15377998</real>
+			<key>timeStoppedRecording</key>
+			<real>569676108.23223805</real>
+			<key>title</key>
+			<string>Building project findShape with scheme findShape and configuration Debug</string>
+			<key>uniqueIdentifier</key>
+			<string>204315D8-6539-40C0-9B89-F6F8F7C4A1FF</string>
+		</dict>
+		<key>895E71C9-E536-4ED3-A2D7-D2BD5403027A</key>
+		<dict>
+			<key>className</key>
+			<string>IDECommandLineBuildLog</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>895E71C9-E536-4ED3-A2D7-D2BD5403027A.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>W</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>findShape project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>findShape</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Building project findShape with scheme findShape and configuration Debug</string>
+			<key>timeStartedRecording</key>
+			<real>569709899.98784304</real>
+			<key>timeStoppedRecording</key>
+			<real>569710065.35024297</real>
+			<key>title</key>
+			<string>Building project findShape with scheme findShape and configuration Debug</string>
+			<key>uniqueIdentifier</key>
+			<string>895E71C9-E536-4ED3-A2D7-D2BD5403027A</string>
+		</dict>
+	</dict>
+</dict>
+</plist>
